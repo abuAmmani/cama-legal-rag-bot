@@ -29,7 +29,7 @@ else:
     retriever = db.as_retriever(search_kwargs={"k": 3})
 
     # 2. Setup our free blazing-fast cloud LLM text engine (Llama-3)
-    llm = ChatGroq(model_name="llama-3.1-8b-instant", temperature=0.2)
+    llm = ChatGroq(model_name="openai/gpt-oss-20b", temperature=0.2)
 
     # 3. Design professional system guardrails for a legal compliance expert assistant
     system_prompt = (

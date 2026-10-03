@@ -1,3 +1,5 @@
+### 🌐 Live Application Link: [Click Here to Access the Live Bot](https://streamlit.app)
+
 \# ⚖️ Nigerian Corporate Law AI Assistant (CAMA 2020 Compliance)
 
 \# ⚖️ CAMA Legal Compliance AI Assistant

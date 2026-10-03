@@ -1,4 +1,4 @@
-"# CAMA Legal RAG Bot"
+\# ⚖️ Nigerian Corporate Law AI Assistant (CAMA 2020 Compliance)
 
 \# ⚖️ CAMA Legal Compliance AI Assistant
 
@@ -9,6 +9,4 @@
 
 
 A production-ready \*\*Retrieval-Augmented Generation (RAG)\*\* application engineered to help Nigerian small business owners...
-
-
 
